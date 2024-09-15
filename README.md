@@ -20,4 +20,4 @@ GitHub Analytics Dashboard is a web application that provides comprehensive anal
 - **Visualization**: Chart.js
 - **Database**: MongoDB
 - **Styling**: Styled-components or traditional CSS
-- **Caching** : Redis
+
